@@ -36,12 +36,3 @@ Brian J. Roberts — [broberts@lumcon.edu](mailto:broberts@lumcon.edu)
 
 ### License
 - **`LICENSE.txt`** (MIT)
-
----
-
-## Quick start
-
-### 1) Download / clone
-```bash
-git clone https://github.com/yaolinguo/ribbed_mussel.git
-cd ribbed_mussel
