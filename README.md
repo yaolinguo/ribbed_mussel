@@ -1,5 +1,3 @@
-# ribbed_mussel
-
 ## Repository Overview
 
 This repository hosts the **R scripts** and raw data for analyzing how **sea level rise (via relative elevation / inundation)** alters the restoration benefit of **ribbed mussel–cordgrass facilitation** in Gulf Coast salt marshes. The workflow reproduces the core statistical analyses and figures, including biweekly growth trajectories, mixed-effects models, single-predictor regressions, and piecewise structural equation modeling (SEM).
