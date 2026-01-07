@@ -31,6 +31,8 @@ Brian J. Roberts — [broberts@lumcon.edu](mailto:broberts@lumcon.edu)
   Biweekly non-destructive plant monitoring measurements.
 - **`Raw data - Final - 0107.xlsx`**  
   End-of-season plant/soil/mussel measurements used for final trait analyses and SEM.
+- **`Raw data - README - 0107.docx`**  
+  Data dictionary / variable definitions for the raw datasets (Excel sheets), including units and notes.
 
 ### License
 - **`LICENSE.txt`** (MIT)
