@@ -7,7 +7,7 @@ This repository hosts the **R scripts** and **raw data** for analyzing how sea l
 For full methods and results, please refer to our study:
 
 > **"Sea level rise weakens the restoration benefit of mussel–cordgrass facilitation in salt marshes"**
-> Published in *Journal of Applied Ecology*
+> *Journal of Applied Ecology*
 
 **Corresponding author:** Brian J. Roberts — [broberts@lumcon.edu](mailto:broberts@lumcon.edu)
 
@@ -21,7 +21,7 @@ For full methods and results, please refer to our study:
   Generates the study-site map.
 
 - **`R code 2 - Biweekly data analysis - 0623.R`**
-  Aggregates the biweekly non-destructive monitoring to the experimental-unit level and fits per-treatment simple linear regressions of growth metrics (stem height, live leaves, live stems, mortality rate) against days deployed.
+  Aggregates the biweekly non-destructive monitoring to the experimental-unit level and fits per-treatment simple linear regressions of growth metrics against days deployed.
 
 - **`R code 3 - Final data analysis - 0623.R`**
   Analyzes end-of-season (destructive sampling) plant and soil traits: linear mixed-effects models, within-elevation regressions of traits against mussel density, and trait-response figures.
