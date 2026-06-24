@@ -2,7 +2,7 @@
 
 ## Repository overview
 
-This repository hosts the **R scripts** and **raw data** for analyzing how **sea level rise** alters the restoration benefit of **ribbed mussel–cordgrass facilitation** in Gulf Coast salt marshes. The workflow reproduces the core statistical analyses and figures.
+This repository hosts the **R scripts** and **raw data** for analyzing how sea level rise alters the restoration benefit of ribbed mussel–cordgrass facilitation in Gulf Coast salt marshes. The workflow reproduces the core statistical analyses and figures.
 
 For full methods and results, please refer to our study:
 
