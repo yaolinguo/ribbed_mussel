@@ -1,4 +1,4 @@
-# Sea level rise weakens mussel–cordgrass facilitation in salt marshes
+# Sea level rise weakens the restoration benefit of mussel–cordgrass facilitation in salt marshes
 
 ## Repository overview
 
