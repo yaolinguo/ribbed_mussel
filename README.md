@@ -1,5 +1,3 @@
-# Sea level rise weakens the restoration benefit of mussel–cordgrass facilitation in salt marshes
-
 ## Repository overview
 
 This repository hosts the **R scripts** and **raw data** for analyzing how sea level rise alters the restoration benefit of ribbed mussel–cordgrass facilitation in Gulf Coast salt marshes. The workflow reproduces the core statistical analyses and figures.
